@@ -1,12 +1,7 @@
-# Packaging and Provisioning
 
-| Task     | Points |
-| ------------- |:-------------:|
-| [Building a Virtual Machine Image](https://github.ncsu.edu/CSC-DevOps-S22/HW2-xfang22-DevOps#-building-a-virtual-machine-image) | 70 | 
-| [Provisioning Workshop](https://github.ncsu.edu/CSC-DevOps-S22/HW2-xfang22-DevOps#%EF%B8%8F-provisioning-workshop) | 20 |
-| [Screencast](https://github.ncsu.edu/CSC-DevOps-S22/HW2-xfang22-DevOps#-screencast)  | 10 |
+# 💿 Building a Virtual Machine Image
 
-## 💿 Building a Virtual Machine Image
+How To Run: 
 `git clone` this repo 
 `cd` into the directory
 then
@@ -57,18 +52,4 @@ sns.catplot(x ="Sex", hue ="Survived",
 kind ="count", data = titanic)
 ```
 ![jupyter](img4readme/jupyter.png)
-## ☁️ Provisioning Workshop
- 
- link to the repo to see my code 📎 https://github.ncsu.edu/xfang22/Cloud-provision  
 
- * Ping the IP address of the droplet to make sure it is alive  
- ![create](img4readme/create-droplet.png)
-
- * Ping it again when the droplet is deleted  
- ![delete](img4readme/delete-droplet.png)
-
-
-## 📹 Screencast
-Link:   
-📎 [Building a Virtual Machine Image](https://drive.google.com/file/d/1mGaQtfZfgq4GWLZUJNJzMApB8KtNggI2/view?usp=sharing)  
-📎 [Provision Workshop](https://drive.google.com/file/d/1fts3txY4K5inFvnHPWvEa5Y1Fzx1yGmJ/view?usp=sharing)
