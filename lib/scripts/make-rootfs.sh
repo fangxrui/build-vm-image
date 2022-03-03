@@ -62,3 +62,8 @@ cp rootfs/boot/initrd.img /my-vol
 # Copy disk.img to volume
 umount /rootfs
 cp --sparse=always disk.img /my-vol/disk.img
+
+
+# #
+chmod +x lib/scripts/package-iso.sh
+
